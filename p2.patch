@@ -1,0 +1,13 @@
+diff --git a/index.html b/index.html
+index e9d9db1..24e8672 100644
+--- a/index.html
++++ b/index.html
+@@ -9,7 +9,7 @@ Fork the repo from here <a href= "https://github.com/MozLNMIIT/mozlnmiit.github.
+ </em>
+   <hr>
+   <p>
+-
++<table>
+       <tr>
+         <td>1</td>
+  	<td> Sagar Chandra Agarwal</td>
